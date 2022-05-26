@@ -49,7 +49,7 @@ service-identity==18.1.0
 six==1.14.0
 sqlparse==0.2.4
 traitlets==4.3.3
-Twisted==19.10.0
+Twisted==22.4.0
 txaio==20.1.1
 wcwidth==0.1.8
 zope.interface==4.7.1
